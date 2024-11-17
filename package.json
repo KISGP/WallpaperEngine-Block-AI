@@ -1,0 +1,14 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "main": "AI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "regedit": "^5.1.3"
+  }
+}
